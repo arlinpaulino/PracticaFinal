@@ -36,6 +36,23 @@ img {
      transform: scale(1.05);
    }
 
+   input {
+    border-radius: 10px ;
+    padding: 5px;
+    border-color: plum;
+    margin: 2px;
+   }
+
+   button {
+    border-radius: 10px ;
+    border-width: 1px;
+    color:white;
+    border-color: rgb(131, 98, 166);
+    background-color: rgb(131, 98, 166);
+    padding: 5px 10px;
+    margin: 10px;
+   }
+
    @keyframes bounce {
      40% {
        transform: translateY(-10px);
